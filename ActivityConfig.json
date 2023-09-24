@@ -1,0 +1,50 @@
+[
+  {
+    "activityId": 2003,
+    "activityType": 0,
+    "scheduleId": 0,
+    "meetCondList": [],
+    "beginTime": "2023-09-23T00:00:00+08:00",
+    "endTime": "2023-10-23T23:59:59+08:00"
+  },
+  {
+    "activityId": 2011,
+    "activityType": 0,
+    "scheduleId": 0,
+    "meetCondList": [],
+    "beginTime": "2023-09-23T00:00:00+08:00",
+    "endTime": "2023-10-23T23:59:59+08:00"
+  },
+  {
+    "activityId": 5002,
+    "activityType": 0,
+    "scheduleId": 0,
+    "meetCondList": [],
+    "beginTime": "2023-09-23T00:00:00+08:00",
+    "endTime": "2023-10-23T23:59:59+08:00"
+  },
+  {
+    "activityId": 5133,
+    "activityType": 0,
+    "scheduleId": 0,
+    "meetCondList": [],
+    "beginTime": "2023-09-23T00:00:00+08:00",
+    "endTime": "2023-10-23T23:59:59+08:00"
+  },
+  {
+    "activityId": 8001,
+    "activityType": 0,
+    "scheduleId": 0,
+    "meetCondList": [],
+    "beginTime": "2023-09-23T00:00:00+08:00",
+    "endTime": "2023-10-23T23:59:59+08:00"
+  },
+  {
+    "activityId": 2001,
+    "activityType": 0,
+    "scheduleId": 0,
+    "meetCondList": [],
+    "beginTime": "2023-09-23T00:00:00+08:00",
+    "endTime": "2023-10-23T23:59:59+08:00"
+  }
+]

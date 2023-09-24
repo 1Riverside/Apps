@@ -1,0 +1,11 @@
+Grasscutter's download
+
+need install Git
+
+Code
+-------------------------------
+git clone https://github.com/Grasscutters/Grasscutter.git
+-------------------------------
+emm
+and look at https://github.com/Grasscutters/Grasscutter
+
